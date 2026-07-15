@@ -28,16 +28,18 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="35" alt="react logo" />
 </div>
 
+
+<h2 data-importer="text" align="left">🌱 Currently Learning:</h2>
+
+<h4 data-importer="text" align="left">Currently improving my backend development skills by deepening my knowledge of the Spring ecosystem.<br><br>Learning Spring Boot, Spring Data JPA, and exploring Spring Security.</h4>
+
+
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/Weeqxa/Weeqxa/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=transparent&locale=en&hide_border=true" height="150" alt="github stats" />
 <img src="https://raw.githubusercontent.com/Weeqxa/Weeqxa/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=transparent&hide_border=true" height="150" alt="top languages" />
 </div>
 
-<br clear="both">
-
-<h2 data-importer="text" align="left">🌱 Currently Learning:</h2>
-
-<h4 data-importer="text" align="left">Currently improving my backend development skills by deepening my knowledge of the Spring ecosystem.<br><br>Learning Spring Boot, Spring Data JPA, and exploring Spring Security.</h4>
 
 <br clear="both">
 
