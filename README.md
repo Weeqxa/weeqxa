@@ -22,10 +22,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="35" alt="git logo" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="35" alt="javascript logo" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="35" alt="react logo" />
-
 </div>
-
-
 
 <h2 data-importer="text" align="left">🌱 Currently Learning:</h2>
 
@@ -34,8 +31,11 @@
 
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Weeqxa/Weeqxa/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=transparent&locale=en&hide_border=true" height="150" alt="github stats" />
-<img src="https://raw.githubusercontent.com/Weeqxa/Weeqxa/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=transparent&hide_border=true" height="150" alt="top languages" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Weeqxa&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" height="150"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weeqxa&layout=compact&langs_count=6&theme=transparent&hide_border=true" height="150"/>
+
 </div>
 
 
