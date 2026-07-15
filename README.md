@@ -32,9 +32,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Weeqxa&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Weeqxa&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" height="150"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weeqxa&layout=compact&langs_count=6&theme=transparent&hide_border=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weeqxa&layout=compact&theme=transparent&hide_border=true&langs_count=6" height="150"/>
 
 </div>
 
