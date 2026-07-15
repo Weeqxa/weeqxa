@@ -9,24 +9,22 @@
 <h4 data-importer="text" align="left">I'm a Java Backend Developer passionate about building clean, scalable web applications.<br><br>🎓 Informatics graduate from the Technical University of Košice (TUKE).<br><br>I enjoy designing REST APIs, developing backend services with Java and Spring Boot, and building database-driven applications with PostgreSQL. I also have experience building frontend interfaces with React when needed.</h4>
 
 <br clear="both">
-<h2 data-importer="text" align="left">Tech Stack: </h2>
+
+<h2 data-importer="text" align="left">Tech Stack:</h2>
+
 <div align="left">
+
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="35" alt="java logo" />
-<img width="2" />
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="35" alt="spring boot logo" />
-<img width="2" />
 <img src="https://img.shields.io/badge/Hibernate%20%2F%20JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" height="35" />
-<img width="2" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="35" alt="postgresql logo" />
-<img width="2" />
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" height="35" alt="maven logo" />
-<img width="2" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="35" alt="git logo" />
-<img width="2" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="35" alt="javascript logo" />
-<img width="2" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="35" alt="react logo" />
+
 </div>
+
 
 
 <h2 data-importer="text" align="left">🌱 Currently Learning:</h2>
