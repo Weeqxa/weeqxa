@@ -64,9 +64,6 @@ I'm a Java Backend Developer passionate about building clean, scalable web appli
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="35"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="35"/>
 
-</div>
-
-
 <h2 align="left">📊 GitHub Statistics</h2>
 
 <div align="left">
