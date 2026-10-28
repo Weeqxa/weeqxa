@@ -64,6 +64,16 @@ I'm a Java Backend Developer passionate about building clean, scalable web appli
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="35"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="35"/>
 
+
+
+<h2 align="left">📊 Most Used Languages</h2>
+
+<div align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5"
+    height="200"
+    alt="Most Used Languages"
+  />
 </div>
 
 <h2 align="left">📫 Connect with Me</h2>
