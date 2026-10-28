@@ -65,15 +65,21 @@ I'm a Java Backend Developer passionate about building clean, scalable web appli
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="35"/>
 
 
-<h2 align="left">📊 Most Used Languages</h2>
+<h2 align="left">📊 GitHub Statistics</h2>
 
-<div align="left">
+<div align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=Weeqxa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    height="200"
+    alt="GitHub Statistics"
+  />
   <img
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=Weeqxa&layout=donut&langs_count=8&theme=tokyonight&hide_border=true"
+    height="200"
     alt="Most Used Languages"
-    height="250"
   />
 </div>
+
 
 
 
