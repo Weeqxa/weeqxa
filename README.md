@@ -65,22 +65,27 @@ I'm a Java Backend Developer passionate about building clean, scalable web appli
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="35"/>
 
 
+
 <h2 align="left">📫 Connect with Me</h2>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/volodymyr-ihnatov/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35"/>
-  </a>
-  <a href="mailto:weeqxa.69@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35"/>
-  </a>
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://www.linkedin.com/in/volodymyr-ihnatov/">
+        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35"/>
+      </a>
+      <a href="mailto:weeqxa.69@gmail.com">
+        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35"/>
+      </a>
+    </td>
+    <td width="50%" align="right" valign="top">
+      <img
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=Weeqxa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5"
+        alt="Most Used Languages"
+        height="200"
+      />
+    </td>
+  </tr>
+</table>
 
-<div align="right">
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Weeqxa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5"
-    alt="Most Used Languages"
-    height="200"
-  />
-</div>
 
