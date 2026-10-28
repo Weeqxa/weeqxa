@@ -69,11 +69,12 @@ I'm a Java Backend Developer passionate about building clean, scalable web appli
 
 <div align="left">
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Weeqxa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Weeqxa&layout=donut&langs_count=8&theme=tokyonight&hide_border=true"
     alt="Most Used Languages"
-    height="200"
+    height="250"
   />
 </div>
+
 
 
 <h2 align="left">📫 Connect with Me</h2>
