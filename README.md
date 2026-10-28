@@ -64,22 +64,28 @@ I'm a Java Backend Developer passionate about building clean, scalable web appli
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="35"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="35"/>
 
+</div>
+
 
 <h2 align="left">📊 GitHub Statistics</h2>
 
-<div align="center">
+<div align="left">
   <img
-    src="https://github-stats-extended.vercel.app/api?username=Weeqxa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=Weeqxa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
     height="200"
     alt="GitHub Statistics"
   />
+</div>
+
+<h2 align="left">💻 Most Used Languages</h2>
+
+<div align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weeqxa&layout=compact&theme=tokyonight&langs_count=8"
     alt="Most Used Languages"
   />
 </div>
 
-</div>
 
 <h2 align="left">📫 Connect with Me</h2>
 
