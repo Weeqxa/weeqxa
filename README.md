@@ -74,14 +74,12 @@ I'm a Java Backend Developer passionate about building clean, scalable web appli
     alt="GitHub Statistics"
   />
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Weeqxa&layout=donut&langs_count=8&theme=tokyonight&hide_border=true"
-    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&langs_count=8"
     alt="Most Used Languages"
   />
 </div>
 
-
-
+</div>
 
 <h2 align="left">📫 Connect with Me</h2>
 
